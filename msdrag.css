@@ -1,0 +1,10 @@
+/* stretch out to the borders */
+body, img {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+.blur {
+  -webkit-filter: blur(10px);
+}
